@@ -32,10 +32,16 @@ De igual manera si ganamos que salga !GANO EL JUEGO! y si pierdes pues te quedas
 
 EJEMPLO:
 ¡JUEGO DEL AHORCADO!
+
 Ingrese la palabra con la que jugara: 
+
 PROGRAMACION
+
 P_________________N
+
 P___O___A__A____O_N
+
 PROGRAMACIÓN
+
 ¡Gano el juego! la palabra era:  ['P', 'R', 'O', 'G', 'R', 'A', 'M', 'A', 'C', 'I', 'O', 'N']
     
