@@ -19,19 +19,6 @@ Definimos que si la letra esta en la palabra lo reemplaze.
 
 Para poder reemplazar la letra creamos una función que reemplaze la palabra tanto completa como incompleta
 
-# Funcion para saber si la letra esta
-def estaLetra (palabra, letra):
-    if (letra in palabra):
-        return True
-    else:
-        return False
-
-# Funcion para reemplazar la letra
-def reemplazarLetra (palabraCompleta, palabraIncompleta,letra):
-    for i in range (0, len (palabraCompleta)):
-        if palabraCompleta [i] == letra:
-            palabraIncompleta [i] = letra
-
 y para esto definimos la función que las letras que no pertenecen a las palabras vayan al [] , y se coloquen ahí.
 
 Luego creamos el menú de inicio que consta de 
