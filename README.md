@@ -30,7 +30,7 @@ Sean las correctas o las no correctas.
 
 De igual manera si ganamos que salga !GANO EL JUEGO! y si pierdes pues te quedaste sin vidas.
 
-EJEMPLO:
+ EJEMPLO:
 ¡JUEGO DEL AHORCADO!
 
 Ingrese la palabra con la que jugara: 
