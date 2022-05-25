@@ -1,6 +1,6 @@
-# código el ahorcado
- He creado funciones para poder definir la palabra que el usuario eligirá.
- usamos los comandos for y in para la palabrajuego
+# Código el ahorcado
+ Como se hizo?
+ Creamos una función que permita al usuario colocar una palabra, sea la que el elija.
  
  Luego Creamos una función que nos permita generar la palabra incompleta
  En esta función lo que estamos logrando es crear la base donde irá la palabra.
@@ -10,6 +10,9 @@
         palabraIncompleta.append ("_")
     palabraIncompleta [0]= palabraJuegoCompleta [0]
     palabraIncompleta [len (palabraIncompleta)-1]= palabraJuegoCompleta [len (palabraJuegoCompleta)-1]
+    
+    
+Esto logrará que la palabra que nosotros elegimos se vuelva incompleta y solo aparezca el primer y ultima letra de la palabra.
     
 Luego creamos una función que nos permita saber si la letra que ponemos existe.
 Definimos que si la letra esta en la palabra lo reemplaze.
